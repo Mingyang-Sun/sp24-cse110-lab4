@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 was never converted to numbers, so result was equal to the string concatenation of num1 and num2 instead of arithmetic addition.
+2. I would converted num1 and num2 into numbers before addition.
